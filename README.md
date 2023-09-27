@@ -2,7 +2,7 @@
 
 🎶 Interested in music
 - creatively: check out my bands - Sautrus (https://sautrus.bandcamp.com) and State Urge (https://stateurge.bandcamp.com)
-- technologically - I make guitar effects
+- technologically - I make guitar effects and modular synthesizer modules
 
 💪 Quite confident in:
 - C
@@ -12,6 +12,7 @@
 - Rust
 - F#
 - Lisp
+- Lua
 
 📫 Reach me by my handle through Twitter, or by mail (from the G company)
 
