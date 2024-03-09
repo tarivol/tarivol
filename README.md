@@ -14,7 +14,7 @@
 - Lisp
 - Lua
 
-📫 Reach me by my handle through Twitter, or by mail (from the G company)
+📫 Reach me by my handle through Twitter/X, or by mail (from the G company)
 
 <!---
 tarivol/tarivol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
